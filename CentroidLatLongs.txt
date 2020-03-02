@@ -1,0 +1,422 @@
+FID,UNIT_CODE,UNIT_NAME,DATE_EDIT,STATE,REGION,GNIS_ID,UNIT_TYPE,CREATED_BY,PARKNAME,POINT_X,POINT_Y
+0,AMME,American Memorial Park,4/22/2015 0:00:00,MP,PW,1879026,Park,Lands,American Memorial Park,145.724001307999998,15.215015189000001
+1,EBLA,Ebey's Landing National Historical Reserve,4/22/2015 0:00:00,WA,PW,1888910,National Historical Reserve,Lands,Ebey's Landing,-122.687721271000001,48.214030356999999
+2,LARO,Lake Roosevelt National Recreation Area,4/22/2015 0:00:00,WA,PW,1531834,National Recreation Area,Lands,Lake Roosevelt,-118.715153653000002,47.911639786999999
+3,OLYM,Olympic National Park,4/22/2015 0:00:00,WA,PW,1530459,National Park,Lands,Olympic,-123.618458275999998,47.795197893999998
+4,SAMO,Santa Monica Mountains National Recreation Area,4/22/2015 0:00:00,CA,PW,277263,National Recreation Area,Lands,Santa Monica Mountains,-118.720179622000003,34.083787125000001
+5,ACAD,Acadia National Park,12/18/2013 0:00:00,ME,NE,578853,National Park,Lands,Acadia,-68.244111977000003,44.350751387999999
+6,ALKA,Ala Kahakai National Historic Trail,12/18/2013 0:00:00,HI,PW,2035608,National Historic Trail,Lands,Ala Kahakai,-155.506758644999991,19.131537051999999
+7,ASIS,Assateague Island National Seashore,12/18/2013 0:00:00,MD,NE,589056,National Seashore,Lands,Assateague Island,-75.249624423000000,38.039037956999998
+8,BISO,Big South Fork National River and Recreation Area,12/18/2013 0:00:00,TN,SE,1309762,National River and Recreation Area,Lands,Big South Fork,-84.665066867999997,36.534838848000000
+9,BLRI,Blue Ridge Parkway,12/18/2013 0:00:00,NC,NT,1009494,Parkway,Lands,Blue Ridge Parkway,-81.070564669999996,36.436499476999998
+10,BLUE,Bluestone National Scenic River,12/18/2013 0:00:00,WV,NE,1877617,National Scenic River,Lands,Bluestone,-80.960820268999996,37.589964377000001
+11,CAHA,Cape Hatteras National Seashore,12/18/2013 0:00:00,NC,SE,982628,National Seashore,Lands,Cape Hatteras,-75.531193543000001,35.242413767000002
+12,CALO,Cape Lookout National Seashore,12/18/2013 0:00:00,NC,SE,1000889,National Seashore,Lands,Cape Lookout,-76.190039257999999,34.958244682000000
+13,CHAT,Chattahoochee River National Recreation Area,12/18/2013 0:00:00,GA,SE,1688073,National Recreation Area,Lands,Chattahoochee River,-84.266764709000000,33.972410609000001
+14,CHCH,Chickamauga and Chattanooga National Military Park,12/18/2013 0:00:00,GA,SE,330990,National Military Park,Lands, Chickamauga and Chattanooga,-85.254012270000004,34.918972547999999
+15,FIIS,Fire Island National Seashore,12/18/2013 0:00:00,NY,NE,970121,National Seashore,Lands,Fire Island,-72.994352266000007,40.691830297999999
+16,FORA,Fort Raleigh National Historic Site,12/18/2013 0:00:00,NC,SE,985324,National Historic Site,Lands,Fort Raleigh,-75.709387609000004,35.936368348000002
+17,GARI,Gauley River National Recreation Area,12/18/2013 0:00:00,WV,NE,1741168,National Recreation Area,Lands,Gauley River,-81.004208362000000,38.206149469000003
+18,GRSM,Great Smoky Mountains National Park,12/18/2013 0:00:00,NC,SE,1018241,National Park,Lands,Great Smoky Mountains,-83.526176993000007,35.609406905000000
+19,ISRO,Isle Royale National Park,12/18/2013 0:00:00,MI,MW,1616980,National Park,Lands,Isle Royale,-88.827806566999996,48.011458187999999
+20,LOWE,Lowell National Historical Park,12/18/2013 0:00:00,MA,NE,1888940,National Historical Park,Lands,Lowell,-71.316572581000003,42.640588461000000
+21,NEPE,Nez Perce National Historical Park,12/18/2013 0:00:00,WA,PW,394735,National Historical Park,Lands,Nez Perce,-116.278020647999995,45.794283682000000
+22,NERI,New River Gorge National River,12/18/2013 0:00:00,VA,NE,1877618,National River,Lands,New River Gorge,-80.989704367000002,37.840266935000002
+23,OBRI,Obed Wild and Scenic River,12/18/2013 0:00:00,TN,SE,1309684,Wild and Scenic River,Lands,Obed,-84.722447778000003,36.084580168000002
+24,POPO,Poverty Point National Monument,12/18/2013 0:00:00,LA,SE,1888953,National Monument,Lands,Poverty Point,-91.408740941000005,32.635298818999999
+25,REDW,Redwood National Park,12/18/2013 0:00:00,CA,PW,277109,National Park,Lands,Redwood,-124.031812865999996,41.372372679999998
+26,SAJU,San Juan National Historic Site,12/18/2013 0:00:00,PR,SE,1879024,National Historic Site,Lands,San Juan,-66.117490228999998,18.468843504999999
+27,SHEN,Shenandoah National Park,12/18/2013 0:00:00,VA,NE,1488805,National Park,Lands,Shenandoah,-78.676199627000003,38.281082109000003
+28,SLBE,Sleeping Bear Dunes National Lakeshore,12/18/2013 0:00:00,MI,MW,638101,National Lakeshore,Lands,Sleeping Bear Dunes,-86.015223586000005,45.111627317999996
+29,STEA,Steamtown National Historic Site,12/18/2013 0:00:00,PA,NE,1877509,National Historic Site,Lands,Steamtown,-75.670372552000003,41.407575207999997
+30,TIMU,Timucuan Ecological and Historic Preserve,12/18/2013 0:00:00,FL,SE,2733416,Ecological and Historic Preserve,Lands,Timucuan,-81.471408324999999,30.431109567000000
+31,VICK,Vicksburg National Military Park,12/18/2013 0:00:00,LA,SE,679217,National Military Park,Lands,Vicksburg,-90.843097239000002,32.364511917000002
+32,CEBE,Cedar Creek and Belle Grove National Historical Park,4/7/2005 0:00:00,VA,NE,1985663,National Historical Park,Lands,Cedar Creek & Belle Grove,-78.316086075000001,38.992380484999998
+33,LIBI,Little Bighorn Battlefield National Monument,2/23/2005 0:00:00,MT,IM,806297,National Monument,Lands,Little Bighorn Battlefield,-107.428636291000004,45.565054240000002
+34,CAVO,Capulin Volcano National Monument,7/22/2004 0:00:00,NM,IM,936867,National Monument,Lands,Capulin Volcano,-103.971042699999998,36.781710959000002
+35,FOBO,Fort Bowie National Historic Site,5/12/2004 0:00:00,AZ,IM,1888916,National Historic Site,Lands,Fort Bowie,-109.451131962000005,32.149259418000000
+36,GICL,Gila Cliff Dwellings National Monument,5/10/2004 0:00:00,NM,IM,928945,National Monument,Lands,Gila Cliff Dwellings,-108.273295837999996,33.227610009999999
+37,TUZI,Tuzigoot National Monument,11/21/2003 0:00:00,AZ,IM,35601,National Monument,Lands,Tuzigoot,-112.027906934000001,34.772963771999997
+38,YUHO,Yucca House National Monument,11/19/2003 0:00:00,CO,IM,202628,National Monument,Lands,Yucca House,-108.685954847000005,37.248954478000002
+39,WOTR,Wolf Trap National Park for the Performing Arts,11/3/2004 0:00:00,VA,NC,1888974,National Park,Lands,Wolf Trap NP for the Performing Arts,-77.263554102000001,38.937931997000000
+40,CASA,Castillo de San Marcos National Monument,2/28/2005 0:00:00,FL,SE,307911,National Monument,Lands,Castillo de San Marcos,-81.312171734000003,29.897857012999999
+41,TICA,Timpanogos Cave National Monument,4/14/2005 0:00:00,UT,IM,1446610,National Monument,Lands,Timpanogos Cave,-111.709394371000002,40.440397189000002
+42,THIS,Theodore Roosevelt Island National Memorial,5/31/2005 0:00:00,DC,NC,2733420,National Memorial,Lands,Theodore Roosevelt Island,-77.062419180000006,38.895841621999999
+43,LYBA,Lyndon Baines Johnson Memorial Grove on the Potomac,5/31/2005 0:00:00,DC,NC,530776,National Memorial,Lands,Lyndon Baines Johnson Memorial Grove,-77.051458323999995,38.878580358000001
+44,ARHO,"Arlington House, The Robert E. Lee Memorial",5/31/2005 0:00:00,VA,NC,1888900,National Memorial,Lands,"Arlington House, The Robert E. Lee Memorial",-77.072726915999993,38.883267875999998
+45,CUGA,Cumberland Gap National Historical Park,7/12/2005 0:00:00,KY,SE,490476,National Historical Park,Lands,Cumberland Gap,-83.606356559999995,36.631264766000001
+46,GREE,Greenbelt Park,8/31/2005 0:00:00,MD,NC,597496,Other Designation,Lands,Greenbelt,-76.900691073000004,38.984033719999999
+47,TUPE,Tupelo National Battlefield,10/13/2005 0:00:00,MS,SE,1888969,National Battlefield,Lands,Tupelo,-88.737086227000006,34.255577049999999
+48,BRCR,Brices Cross Roads National Battlefield Site,10/13/2005 0:00:00,MS,SE,667556,National Battlefield Site,Lands,Brices Cross Roads,-88.728893425999999,34.506119581999997
+49,PORE,Point Reyes National Seashore,10/25/2005 0:00:00,CA,PW,234493,National Seashore,Lands,Point Reyes,-122.879757884000000,38.055111265000001
+50,FOSU,Fort Sumter National Monument,11/3/2005 0:00:00,SC,SE,1222505,National Monument,Lands,Fort Sumter,-79.879333674999998,32.753594299000000
+51,TONT,Tonto National Monument,2/23/2006 0:00:00,AZ,IM,35382,National Monument,Lands,Tonto,-111.113562693999995,33.648429450000002
+52,HOFR,Home of Franklin D. Roosevelt National Historic Site,3/7/2006 0:00:00,NY,NE,1888929,National Historic Site,Lands,Home of Franklin D Roosevelt,-73.926717694999994,41.768041429000000
+53,NISI,Ninety Six National Historic Site,3/20/2006 0:00:00,SC,SE,1227788,National Historic Site,Lands,Ninety Six,-82.016360792000000,34.142735876000003
+54,CHPI,Charles Pinckney National Historic Site,3/20/2006 0:00:00,SC,SE,1252725,National Historic Site,Lands,Charles Pinckney,-79.824875821999996,32.845773923000003
+55,BUIS,Buck Island Reef National Monument,3/20/2006 0:00:00,VI,SE,1613756,National Monument,Lands,Buck Island Reef,-64.622217902000003,17.810267173000000
+56,CAWO,Carter G. Woodson National Historic Site,3/22/2006 0:00:00,MD,NC,2085144,National Historic Site,Lands,Carter G. Woodson Home,-77.024308753000000,38.910885114000003
+57,BOHA,Boston Harbor Islands National Recreation Area,8/14/2006 0:00:00,MA,NE,606990,National Recreation Area,Lands,Boston Harbor Islands,-70.872087210999993,42.262409511999998
+58,SUCR,Sunset Crater Volcano National Monument,8/11/2006 0:00:00,AZ,IM,34968,National Monument,Lands,Sunset Crater Volcano,-111.510376042000004,35.371143226000001
+59,MABE,Mary McLeod Bethune Council House National Historic Site,9/21/2006 0:00:00,DC,NC,2733422,National Historic Site,Lands,Mary McLeod Bethune Council House,-77.030965132000006,38.908183321000003
+60,FOTH,Ford's Theatre National Historic Site,9/21/2006 0:00:00,DC,NC,530748,National Historic Site,Lands,Ford's Theatre,-77.025659743999995,38.896662263000003
+61,BRVB,Brown v. Board of Education National Historic Site,11/1/2006 0:00:00,KS,MW,2510335,National Historic Site,Lands,Brown V Board Of Education,-95.676407619000003,39.037932613999999
+62,PISP,Pipe Spring National Monument,12/7/2006 0:00:00,AZ,IM,9526,National Monument,Lands,Pipe Spring,-112.739856681000006,36.862826662000003
+63,ELMO,El Morro National Monument,12/11/2006 0:00:00,NM,IM,906062,National Monument,Lands,El Morro,-108.346398394999994,35.038959161000001
+64,ANJO,Andrew Johnson National Historic Site,1/24/2007 0:00:00,TN,SE,1304837,National Historic Site,Lands,Andrew Johnson,-82.838140491999994,36.155363041000001
+65,SAPA,Saint Paul's Church National Historic Site,2/9/2007 0:00:00,NY,NE,1888959,National Historic Site,Lands,Saint Paul's Church,-73.825772764999996,40.892835116000001
+66,CACL,Castle Clinton National Monument,2/16/2007 0:00:00,NY,NE,945983,National Monument,Lands,Castle Clinton,-74.016805579999996,40.703477950000000
+67,FOBU,Fossil Butte National Monument,2/22/2007 0:00:00,WY,IM,1605065,National Monument,Lands,Fossil Butte,-110.762475445000007,41.856352229999999
+68,HOVE,Hovenweep National Monument,4/6/2007 0:00:00,UT,IM,202599,National Monument,Lands,Hovenweep,-109.072990099999998,37.385360149000000
+69,FOUN,Fort Union National Monument,5/15/2007 0:00:00,NM,IM,889156,National Monument,Lands,Fort Union,-105.012017353999994,35.907371144999999
+70,ABLI,Abraham Lincoln Birthplace National Historical Park,10/3/2007 0:00:00,KY,SE,496556,National Historical Park,Lands,Abraham Lincoln Birthplace,-85.644420687999997,37.611975893000000
+71,DRTO,Dry Tortugas National Park,11/7/2007 0:00:00,FL,SE,307632,National Park,Lands,Dry Tortugas,-82.871783489999999,24.648851160000000
+72,FOFR,Fort Frederica National Monument,12/5/2007 0:00:00,GA,SE,314290,National Monument,Lands,Fort Frederica,-81.389842563000002,31.223555139999998
+73,MANZ,Manzanar National Historic Site,3/4/2008 0:00:00,CA,PW,1804731,National Historic Site,Lands,Manzanar,-118.154717700000006,36.725591952999999
+74,BRCA,Bryce Canyon National Park,3/27/2008 0:00:00,UT,IM,1450197,National Park,Lands,Bryce Canyon,-112.182668887000005,37.583991437999998
+75,JODR,"John D. Rockefeller, Jr., Memorial Parkway",4/14/2008 0:00:00,WY,IM,1604577,National Parkway,Lands,John D Rockefeller Jr,-110.728039569000003,44.088713474000002
+76,EDIS,Thomas Edison National Historical Park,4/22/2008 0:00:00,NJ,NE,874901,National Historical Park,Lands,Thomas Edison,-74.239820971000000,40.785970757999998
+77,YELL,Yellowstone National Park,4/23/2008 0:00:00,WY,IM,1609331,National Park,Lands,Yellowstone,-110.547169509000000,44.598244170999997
+78,HUTR,Hubbell Trading Post National Historic Site,5/13/2008 0:00:00,AZ,IM,6092,National Historic Site,Lands,Hubbell Trading Post,-109.559951538999997,35.707273245000003
+79,CHAM,Chamizal National Memorial,5/20/2008 0:00:00,TX,IM,1888906,National Memorial,Lands,Chamizal,-106.454401121000004,31.767296338000001
+80,PUHE,Pu'ukohola Heiau National Historic Site,6/18/2008 0:00:00,HI,PW,1877550,National Historic Site,Lands,Puukohola Heiau,-155.821162934999990,20.027721862000000
+81,ULSG,Ulysses S. Grant National Historic Site,7/1/2008 0:00:00,MO,MW,2733425,National Historic Site,Lands,Ulysses S Grant,-90.351692549999996,38.551823738000003
+82,CANA,Canaveral National Seashore,7/30/2008 0:00:00,FL,SE,307730,National Seashore,Lands,Canaveral,-80.754167987000002,28.786347743000000
+83,AFBG,African Burial Ground National Monument,8/19/2008 0:00:00,NY,NE,2060434,National Monument,Lands,African Burial Ground,-74.004328912999995,40.714549478999999
+84,CABR,Cabrillo National Monument,8/28/2008 0:00:00,CA,PW,255957,National Monument,Lands,Cabrillo,-117.241598546999995,32.672250300999998
+85,CLBA,Clara Barton National Historic Site,11/17/2008 0:00:00,MD,NC,2733426,National Historic Site,Lands,Clara Barton,-77.140096892000003,38.967628820000002
+86,FOWA,Fort Washington Park,11/17/2008 0:00:00,MD,NC,597426,Other Designation,Lands,Fort Washington,-77.028750861999995,38.712176974999998
+87,SEQU,Sequoia National Park,11/26/2008 0:00:00,CA,PW,266000,National Park,Lands,Sequoia,-118.575201100000001,36.507852821999997
+88,KALA,Kalaupapa National Historical Park,1/15/2009 0:00:00,HI,PW,365030,National Historical Park,Lands,Kalaupapa,-156.924649828000014,21.154642233000001
+89,TUAI,Tuskegee Airmen National Historic Site,2/3/2009 0:00:00,AL,SE,2492338,National Historic Site,Lands,Tuskegee Airmen,-85.679833212000005,32.455386716000000
+90,SARI,Salt River Bay National Historical Park and Ecological Preserve,3/5/2009 0:00:00,VI,SE,1993989,National Historical Park,Lands,Salt River Bay,-64.755193477000006,17.779086022000001
+91,NATC,Natchez National Historical Park,3/24/2009 0:00:00,MS,SE,1888946,National Historical Park,Lands,Natchez,-91.382449768000001,31.543019516000001
+92,EDAL,Edgar Allan Poe National Historic Site,3/17/2009 0:00:00,PA,NE,1888911,National Historic Site,Lands,Edgar Allan Poe,-75.150006196999996,39.961954818000002
+93,BOAF,Boston African American National Historic Site,3/12/2009 0:00:00,MA,NE,1888904,National Historic Site,Lands,Boston African American,-71.070640433999998,42.357895626999998
+94,MACA,Mammoth Cave National Park,3/27/2009 0:00:00,KY,SE,507318,National Park,Lands,Mammoth Cave,-86.130901981999997,37.197604577000000
+95,EUON,Eugene O'Neill National Historic Site,5/14/2009 0:00:00,CA,PW,1888915,National Historic Site,Lands,Eugene O'Neill,-122.027156638999998,37.826044564000000
+96,ADAM,Adams National Historical Park,6/5/2009 0:00:00,MA,NE,1888899,National Historical Park,Lands,Adams,-71.012549394999994,42.256594151999998
+97,NAVA,Navajo National Monument,7/13/2009 0:00:00,AZ,IM,8538,National Monument,Lands,Navajo,-110.536256490000000,36.685491265000003
+98,THST,Thomas Stone National Historic Site,7/28/2009 0:00:00,MD,NE,1888967,National Historic Site,Lands,Thomas Stone,-77.037813000000000,38.529344432999999
+99,CARI,Cane River Creole National Historical Park,7/28/2009 0:00:00,LA,SE,2733428,National Historical Park,Lands,Cane River Creole,-93.007298723999995,31.664441737000001
+100,GRBA,Great Basin National Park,9/10/2009 0:00:00,NV,PW,862430,National Park,Lands,Great Basin,-114.257978174000002,38.946173782999999
+101,GRPO,Grand Portage National Monument,12/14/2009 0:00:00,MI,MW,644333,National Monument,Lands,Grand Portage,-89.760688497000004,47.999682008999997
+102,WHIS,Whiskeytown-Shasta-Trinity National Recreation Area,1/6/2010 0:00:00,CA,PW,277264,National Recreation Area,Lands,Whiskeytown,-122.602265716999995,40.613599405000002
+103,FOPO,Fort Point National Historic Site,2/24/2010 0:00:00,CA,PW,1655639,National Historic Site,Lands,Fort Point,-122.473717243999999,37.808400204999998
+104,SAMA,Salem Maritime National Historic Site,3/25/2010 0:00:00,MA,NE,1888961,National Historic Site,Lands,Salem Maritime,-70.886838229000006,42.519598971999997
+105,WAMO,Washington Monument,11/6/2009 0:00:00,DC,NC,531850,National Memorial,Lands,Washington Monument,-77.035465854999998,38.888651821000003
+106,JEFM,Thomas Jefferson Memorial,11/6/2009 0:00:00,DC,NC,530557,National Memorial,Lands,Thomas Jefferson Memorial,-77.036325723999994,38.881014305999997
+107,MOCR,Moores Creek National Battlefield,10/26/2009 0:00:00,NC,SE,1025558,National Battlefield,Lands,Moores Creek,-78.110311343000006,34.458207762999997
+108,HOBE,Horseshoe Bend National Military Park,10/26/2009 0:00:00,AL,SE,149966,National Military Park,Lands,Horseshoe Bend,-85.734135889000001,32.976688793999998
+109,FOMA,Fort Matanzas National Monument,10/26/2009 0:00:00,FL,SE,307963,National Monument,Lands,Fort Matanzas,-81.238662406000003,29.711405458000002
+110,CHIS,Channel Islands National Park,9/3/2009 0:00:00,CA,PW,1662323,National Park,Lands,Channel Islands,-119.739656780999994,34.016573244000000
+111,CANY,Canyonlands National Park,4/26/2010 0:00:00,UT,IM,1448008,National Park,Lands,Canyonlands,-109.877003958000003,38.243551553000003
+112,WHHO,White House,5/28/2010 0:00:00,DC,NC,2733430,Other Designation,Lands,President's Park (White House),-77.036553561000005,38.897039999999997
+113,BOWA,Booker T. Washington National Monument,6/7/2010 0:00:00,VA,NE,1477005,National Monument,Lands,Booker T Washington,-79.731874141999995,37.114813644000002
+114,JELA,Jean Lafitte National Historical Park and Preserve,6/11/2010 0:00:00,LA,SE,560393,National Historical Park and Preserve,Lands,Jean Lafitte,-90.147215036999995,29.819179448000000
+115,JECA,Jewel Cave National Monument,7/22/2010 0:00:00,SD,MW,1261888,National Monument,Lands,Jewel Cave,-103.829994008000000,43.731029450000001
+116,FOLS,Fort Larned National Historic Site,7/28/2010 0:00:00,KS,MW,475845,National Historic Site,Lands,Fort Larned,-99.216975116000000,38.184491051999998
+117,RORI,Rosie the Riveter/World War II Home Front National Historical Park,5/17/2010 0:00:00,CA,PW,2026588,National Historical Park,Lands,Rosie the Riveter WWII Home Front,-122.366535056000004,37.908668325999997
+118,FOST,Fort Stanwix National Monument,7/8/2010 0:00:00,NY,NE,1888919,National Monument,Lands,Fort Stanwix,-75.455576256000001,43.210534406000001
+119,THKO,Thaddeus Kosciuszko National Memorial,7/7/2010 0:00:00,PA,NE,1888966,National Memorial,Lands,Thaddeus Kosciuszko,-75.147320453000006,39.943453122000001
+120,PEVI,Perry's Victory and International Peace Memorial,9/1/2010 0:00:00,OH,MW,1082175,National Memorial,Lands,Perry's Victory & International Peace,-82.811904427000002,41.653790420000000
+121,JAGA,James A. Garfield National Historic Site,9/7/2010 0:00:00,OH,MW,1888932,National Historic Site,Lands,James A Garfield,-81.350865571000000,41.664865491999997
+122,CATO,Catoctin Mountain Park,9/15/2010 0:00:00,MD,NC,583623,Other Designation,Lands,Catoctin Mountain,-77.461221327999993,39.648213314000003
+123,RABR,Rainbow Bridge National Monument,3/29/2010 0:00:00,UT,IM,23944,National Monument,Lands,Rainbow Bridge,-110.965509871999998,37.077887715000003
+124,NABR,Natural Bridges National Monument,7/12/2010 0:00:00,UT,IM,1454484,National Monument,Lands,Natural Bridges,-110.002243590000006,37.604532904999999
+125,BEOL,Bent's Old Fort National Historic Site,9/21/2010 0:00:00,CO,IM,2559483,National Historic Site,Lands,Bent's Old Fort,-103.426649917999995,38.039775462000001
+126,PIMA,Hohokam Pima National Monument,9/20/2010 0:00:00,AZ,IM,25440,National Monument,Lands,Hohokam Pima,-111.919273742000001,33.187138771999997
+127,GUIS,Gulf Islands National Seashore,10/5/2010 0:00:00,FL,SE,689020,National Seashore,Lands,Gulf Islands,-86.909965049999997,30.373064771999999
+128,APCO,Appomattox Court House National Historical Park,10/7/2010 0:00:00,VA,NE,1462531,National Historical Park,Lands,Appomattox Court House,-78.800894021000005,37.382748231000001
+129,PIPE,Pipestone National Monument,10/21/2010 0:00:00,MN,MW,649530,National Monument,Lands,Pipestone,-96.324755229000004,44.013519580000001
+130,BISC,Biscayne National Park,12/2/2010 0:00:00,FL,SE,294450,National Park,Lands,Biscayne,-80.210238508000003,25.490586996000001
+131,ARPO,Arkansas Post National Memorial,12/13/2010 0:00:00,AR,MW,2733432,National Memorial,Lands,Arkansas Post,-91.347327590000006,34.020725730000002
+132,MORU,Mount Rushmore National Memorial,12/13/2010 0:00:00,SD,MW,1262098,National Memorial,Lands,Mount Rushmore,-103.452518612000006,43.880370214999999
+133,GUMO,Guadalupe Mountains National Park,12/21/2010 0:00:00,TX,IM,1377201,National Park,Lands,Guadalupe Mountains,-104.884347171000002,31.923384209999998
+134,CIRO,City of Rocks National Reserve,10/3/2007 0:00:00,ID,PW,401309,National Reserve,Lands,City of Rocks,-113.712409719999997,42.069902401999997
+135,HAFO,Hagerman Fossil Beds National Monument,9/4/2008 0:00:00,ID,PW,395749,National Monument,Lands,Hagerman Fossil Beds,-114.953998908000003,42.775574956000000
+136,PETE,Petersburg National Battlefield,2/2/2011 0:00:00,VA,NE,1498529,National Battlefield,Lands,Petersburg,-77.363016805000001,37.227995894999999
+137,FOVA,Fort Vancouver National Historic Site,3/3/2011 0:00:00,WA,PW,1504974,National Historic Site,Lands,Fort Vancouver,-122.661637587000001,45.623560394999998
+138,SAGA,Saint-Gaudens National Historic Site,3/9/2011 0:00:00,NH,NE,1888960,National Historic Site,Lands,Saint-Gaudens,-72.374031629000001,43.500468867999999
+139,JOFI,John Fitzgerald Kennedy National Historic Site,10/28/2010 0:00:00,MA,NE,607138,National Historic Site,Lands,John F Kennedy,-71.123238463000007,42.346936939000003
+140,JEFF,Gateway Arch National Park,10/28/2010 0:00:00,MO,MW,765817,National Park,Lands,Gateway Arch,-90.175629293000000,38.622116276000000
+141,FOPU,Fort Pulaski National Monument,12/21/2010 0:00:00,GA,SE,314296,National Monument,Lands,Fort Pulaski,-80.943628591000007,32.034777609000002
+142,ELRO,Eleanor Roosevelt National Historic Site,4/22/2011 0:00:00,NY,NE,1888914,National Historic Site,Lands,Eleanor Roosevelt,-73.900607545000000,41.763378363999998
+143,FRHI,Friendship Hill National Historic Site,4/14/2011 0:00:00,PA,NE,1888922,National Historic Site,Lands,Friendship Hill,-79.925280088999997,39.775455694999998
+144,THRB,Theodore Roosevelt Birthplace National Historic Site,3/28/2011 0:00:00,NY,NE,2083047,National Historic Site,Lands,Theodore Roosevelt Birthplace,-73.989012680000002,40.738593115000000
+145,CORO,Coronado National Memorial,2/14/2011 0:00:00,AZ,IM,40512,National Memorial,Lands,Coronado,-110.256157381999998,31.349003974999999
+146,WRBR,Wright Brothers National Memorial,5/23/2011 0:00:00,NC,SE,1027483,National Memorial,Lands,Wright Brothers,-75.670220356000002,36.016211622000000
+147,SEMO,Selma to Montgomery National Historic Trail,5/19/2011 0:00:00,AL,SE,2733435,National Historic Trail,Lands,Selma to Montgomery,-86.728237019999995,32.270820925000002
+148,KIMO,Kings Mountain National Military Park,6/27/2011 0:00:00,SC,SE,1223739,National Military Park,Lands,Kings Mountain,-81.389787115999994,35.139007231999997
+149,GOSP,Golden Spike National Historic Site,2/17/2011 0:00:00,UT,IM,1428242,National Historic Site,Lands,Golden Spike,-112.493986200999998,41.630996639000003
+150,NEBE,New Bedford Whaling National Historical Park,7/15/2011 0:00:00,MA,NE,2733436,National Historical Park,Lands,New Bedford Whaling,-70.923196159000000,41.635647968999997
+151,SAHI,Sagamore Hill National Historic Site,7/29/2011 0:00:00,NY,NE,970557,National Historic Site,Lands,Sagamore Hill,-73.496686531999998,40.885572807000003
+152,LABE,Lava Beds National Monument,9/6/2011 0:00:00,CA,PW,262358,National Monument,Lands,Lava Beds,-121.517796282000006,41.758764237999998
+153,WORI,Women's Rights National Historical Park,8/19/2011 0:00:00,NY,NE,1888975,National Historical Park,Lands,Women's Rights,-76.844513570999993,42.902620073999998
+154,GERO,George Rogers Clark National Historical Park,8/18/2010 0:00:00,IN,MW,447197,National Historical Park,Lands,George Rogers Clark,-87.537007690999999,38.678402130000002
+155,LONG,Longfellow House-Washington's Headquarters National Historic Site,4/18/2011 0:00:00,MA,NE,2733437,National Historic Site,Lands,Longfellow,-71.126369560000001,42.376988535999999
+156,HOFU,Hopewell Furnace National Historic Site,8/17/2011 0:00:00,PA,NE,1193717,National Historic Site,Lands,Hopewell Furnace,-75.768116152000005,40.206073461000003
+157,FRDE,Franklin Delano Roosevelt Memorial,9/26/2011 0:00:00,DC,NC,1877541,National Memorial,Lands,Franklin Delano Roosevelt,-77.043115424000007,38.883412741999997
+158,MOCA,Montezuma Castle National Monument,9/20/2011 0:00:00,AZ,IM,31964,National Monument,Lands,Montezuma Castle,-111.836615308999995,34.611020773000000
+159,KICA,Kings Canyon National Park,10/17/2011 0:00:00,CA,PW,255948,National Park,Lands,Kings Canyon,-118.587331108000001,36.899085004000000
+160,SPAR,Springfield Armory National Historic Site,10/18/2011 0:00:00,MA,NE,1888963,National Historic Site,Lands,Springfield Armory,-72.581125589999999,42.108304394000001
+161,WHMI,Whitman Mission National Historic Site,10/27/2011 0:00:00,WA,PW,1531185,National Historic Site,Lands,Whitman Mission,-118.465487564000000,46.042650950999999
+162,WWII,World War II Memorial,11/3/2011 0:00:00,DC,NC,1989142,National Memorial,Lands,World War II Memorial,-77.040375896000000,38.889239175999997
+163,VIVE,Vietnam Veterans Memorial,11/3/2011 0:00:00,DC,NC,531832,National Memorial,Lands,Vietnam Veterans,-77.047657353999995,38.890962967000000
+164,KOWA,Korean War Veterans Memorial,11/3/2011 0:00:00,DC,NC,1985525,National Memorial,Lands,Korean War Veterans,-77.048077335000002,38.887921329999998
+165,COGA,Constitution Gardens,11/3/2011 0:00:00,DC,NC,530610,Other Designation,Lands,Constitution Gardens,-77.044266581000002,38.890936740999997
+166,MLKM,"Martin Luther King, Jr., Memorial",11/4/2011 0:00:00,DC,NC,2002666,Other Designation,Lands,Martin Luther King Jr,-77.044397066000002,38.886282094000002
+167,LINC,Lincoln Memorial,11/4/2011 0:00:00,DC,NC,531835,National Memorial,Lands,Lincoln,-77.050177778999995,38.889272296000001
+168,MALL,National Mall,10/6/2011 0:00:00,DC,NC,2733438,Other Designation,Lands,National Mall,-77.022784392000005,38.889866052999999
+169,RUCA,Russell Cave National Monument,11/2/2011 0:00:00,AL,SE,126026,National Monument,Lands,Russell Cave,-85.818586480999997,34.970839310000002
+170,MAWA,Maggie L. Walker National Historic Site,11/30/2011 0:00:00,VA,NE,1780716,National Historic Site,Lands,Maggie L. Walker,-77.436748077000004,37.547328249000003
+171,BICA,Bighorn Canyon National Recreation Area,1/11/2012 0:00:00,WY,IM,767934,National Recreation Area,Lands,Bighorn Canyon,-108.026403608999999,45.289088818000003
+172,PUHO,Pu'uhonua o Honaunau National Historical Park,1/13/2012 0:00:00,HI,PW,358732,National Historical Park,Lands,Pu`uhonua O Honaunau,-155.899677669999988,19.409031366000001
+173,SAND,Sand Creek Massacre National Historic Site,3/5/2012 0:00:00,CO,IM,2127375,National Historic Site,Lands,Sand Creek Massacre,-102.516954163999998,38.564141892000002
+174,KNRI,Knife River Indian Villages National Historic Site,4/3/2012 0:00:00,ND,MW,1888938,National Historic Site,Lands,Knife River Indian Villages,-101.383734184999994,47.353004149000000
+175,MORR,Morristown National Historical Park,2/23/2012 0:00:00,NJ,NE,878495,National Historical Park,Lands,Morristown,-74.535634287999997,40.764518350000003
+176,MAVA,Martin Van Buren National Historic Site,7/18/2012 0:00:00,NY,NE,1888943,National Historic Site,Lands,Martin Van Buren,-73.715295060000003,42.366663864000003
+177,GOIS,Governors Island National Monument,8/15/2012 0:00:00,NY,NE,2092022,National Monument,Lands,Governors Island,-74.016827676999995,40.691615642999999
+178,SCBL,Scotts Bluff National Monument,8/13/2012 0:00:00,NE,MW,833315,National Monument,Lands,Scotts Bluff,-103.707243003000002,41.834764362000001
+179,JOFL,Johnstown Flood National Memorial,8/28/2012 0:00:00,PA,NE,1200751,National Memorial,Lands,Johnstown Flood,-78.776734809999994,40.344921902000003
+180,AGFO,Agate Fossil Beds National Monument,11/27/2012 0:00:00,NE,MW,826917,National Monument,Lands,Agate Fossil Beds,-103.743998997999995,42.421472451000000
+181,RRBH,Ronald Reagan Boyhood Home National Historic Site,1/3/2013 0:00:00,IL,MW,2733441,National Historic Site,Lands,Ronald Reagan Boyhood Home,-89.480531150999994,41.836212666999998
+182,CARE,Capitol Reef National Park,12/3/2012 0:00:00,UT,IM,1434866,National Park,Lands,Capitol Reef,-111.283003578000006,38.383667811000002
+183,FLNI,Flight 93 National Memorial,2/5/2013 0:00:00,PA,NE,1986830,National Memorial,Lands,Flight 93,-78.894569048999998,40.060614760000000
+184,DEPO,Devils Postpile National Monument,1/25/2013 0:00:00,CA,PW,266641,National Monument,Lands,Devils Postpile,-119.087686112000000,37.615375819000000
+185,SAFR,San Francisco Maritime National Historical Park,2/19/2013 0:00:00,CA,PW,1877542,National Historical Park,Lands,San Francisco Maritime,-122.424424763000005,37.810066579999997
+186,PAAL,Palo Alto Battlefield National Historical Park,2/14/2013 0:00:00,TX,IM,1888952,National Historical Park,Lands,Palo Alto Battlefield,-97.462721829000003,26.024743571999998
+187,VICR,Virgin Islands Coral Reef National Monument,4/4/2013 0:00:00,VI,SE,2733450,National Monument,Lands,Virgin Islands Coral Reef,-64.707939933000006,18.273510824999999
+188,MABI,Marsh-Billings-Rockefeller National Historical Park,9/21/2011 0:00:00,VT,NE,1888942,National Historical Park,Lands,Marsh - Billings - Rockefeller,-72.538238589000002,43.633822573000003
+189,LIRI,Little River Canyon National Preserve,4/29/2013 0:00:00,AL,SE,1888939,National Preserve,Lands,Little River Canyon,-85.597246420999994,34.451917698999999
+190,CHYO,Charles Young Buffalo Soldiers National Monument,6/3/2013 0:00:00,OH,MW,2736075,National Monument,Lands,Charles Young Buffalo Soldiers,-83.894601389000002,39.708005544000002
+191,DAAV,Dayton Aviation Heritage National Historical Park,5/30/2013 0:00:00,OH,MW,1083940,National Historical Park,Lands,Dayton Aviation Heritage,-84.064421784000004,39.803967593000003
+192,EISE,Eisenhower National Historic Site,7/8/2013 0:00:00,PA,NE,1888912,National Historic Site,Lands,Eisenhower,-77.265080914999999,39.795775611000003
+193,CECH,Cesar E. Chavez National Monument,2/5/2013 0:00:00,CA,PW,2754548,National Monument,Lands,César E. Chávez,-118.561578093999998,35.227293891000002
+194,FONE,Fort Necessity National Battlefield,9/24/2013 0:00:00,PA,NE,1193713,National Battlefield,Lands,Fort Necessity,-79.588690799999995,39.810037895999997
+195,MIMI,Minuteman Missile National Historic Site,12/18/2013 0:00:00,SD,MW,2733442,National Historic Site,Lands,Minuteman Missile,-101.900432753999993,43.844576668999999
+196,SAPU,Salinas Pueblo Missions National Monument,11/27/2013 0:00:00,NM,IM,936877,National Monument,Lands,Salinas Pueblo Missions,-106.089799671999998,34.259423976000001
+197,PINN,Pinnacles National Park,2/5/2014 0:00:00,CA,PW,247533,National Park,Lands,Pinnacles,-121.180995254999999,36.490237835999999
+198,FOMC,Fort McHenry National Monument and Historic Shrine,1/13/2012 0:00:00,MD,NE,595218,National Monument and Historic Shrine,Lands,Fort McHenry,-76.580441649999997,39.263953137000001
+199,SAIR,Saugus Iron Works National Historic Site,6/9/2014 0:00:00,MA,NE,600017,National Historic Site,Lands,Saugus Iron Works,-71.007653403000006,42.468310602000003
+200,ROWI,Roger Williams National Memorial,9/30/2011 0:00:00,RI,NE,1904107,National Memorial,Lands,Roger Williams,-71.410566653999993,41.829895506000000
+201,CAGR,Casa Grande Ruins National Monument,6/27/2014 0:00:00,AZ,IM,44811,National Monument,Lands,Casa Grande Ruins,-111.532538332000001,32.997025821999998
+202,CHRI,Christiansted National Historic Site,6/19/2014 0:00:00,VI,SE,1993781,National Historic Site,Lands,Christiansted,-64.739965341000001,17.734055723000001
+203,ALPO,Allegheny Portage Railroad National Historic Site,8/4/2014 0:00:00,PA,NE,1214216,National Historic Site,Lands,Allegheny Portage Railroad,-78.531860930999997,40.446771384999998
+204,DESO,De Soto National Memorial,8/7/2014 0:00:00,FL,SE,294586,National Memorial,Lands,De Soto,-82.643354158999998,27.522726130999999
+205,ANDE,Andersonville National Historic Site,8/19/2014 0:00:00,GA,SE,310534,National Historic Site,Lands,Andersonville,-84.129890059000004,32.198303627000001
+206,OCMU,Ocmulgee National Monument,10/21/2014 0:00:00,GA,SE,1888951,National Monument,Lands,Ocmulgee,-83.596759844000005,32.839738343000000
+207,COWP,Cowpens National Battlefield,9/17/2014 0:00:00,SC,SE,1247412,National Battlefield,Lands,Cowpens,-81.809354327999998,35.131606542999997
+208,CHIR,Chiricahua National Monument,9/10/2014 0:00:00,AZ,IM,2877,National Monument,Lands,Chiricahua,-109.341606970000001,32.012146180000002
+209,MALU,"Martin Luther King, Jr., National Historic Site",11/19/2014 0:00:00,GA,SE,1704967,National Historic Site,Lands,Martin Luther King Jr.,-84.371693303000001,33.754920077000001
+210,WAPA,War in the Pacific,2/4/2015 0:00:00,GU,PW,1828962,National Historical Park,Lands,War in the Pacific,144.655114058999999,13.390011032000000
+211,DETO,Devils Tower National Monument,12/8/2014 0:00:00,WY,IM,2733421,National Monument,Lands,Devils Tower,-104.715634132000005,44.590646554999999
+212,BOST,Boston National Historical Park,2/9/2015 0:00:00,MA,NE,600140,National Historical Park,Lands,Boston,-71.055749200999998,42.373377572999999
+213,ORCA,Oregon Caves National Monument and Preserve,2/26/2015 0:00:00,OR,PW,1147260,National Monument,Lands,Oregon Caves,-123.401642061000004,42.103139366999997
+214,GEGR,General Grant National Memorial,7/22/2013 0:00:00,NY,NE,2733424,National Memorial,Lands,General Grant,-73.963075673000006,40.813434356999998
+215,GOGA,Golden Gate National Recreation Area,4/20/2015 0:00:00,CA,PW,255952,National Recreation Area,Lands,Golden Gate,-122.551127976999993,37.858882145999999
+216,POCH,Port Chicago Naval Magazine National Memorial,4/21/2015 0:00:00,CA,PW,1967105,National Memorial,Lands,Port Chicago Naval Magazine,-122.030160269999996,38.056854715999997
+217,JODA,John Day Fossil Beds National Monument,7/8/2015 0:00:00,OR,PW,1133439,National Monument,Lands,John Day Fossil Beds,-119.634318411999999,44.543153994000001
+218,FRST,First State National Historical Park,6/18/2015 0:00:00,DE,NE,2756166,National Historical Park,Lands,First State,-75.563624872000005,39.831845952000002
+219,GUCO,Guilford Courthouse National Military Park,6/17/2015 0:00:00,NC,SE,986193,National Military Park,Lands,Guilford Courthouse,-79.841868128000002,36.133017850999998
+220,PAGR,Paterson Great Falls National Historical Park,5/11/2015 0:00:00,NJ,NE,2053533,National Historical Park,Lands,Paterson Great Falls,-74.180225281999995,40.915897866999998
+221,WEFA,Weir Farm National Historic Site,8/27/2015 0:00:00,CT,NE,1888972,National Historic Site,Lands,Weir Farm,-73.456487172999999,41.256758195000003
+222,THRI,Theodore Roosevelt Inaugural National Historic Site,8/28/2015 0:00:00,NY,NE,2035603,National Historic Site,Lands,Theodore Roosevelt Inaugural,-78.872484107999995,42.901467809000003
+223,LAVO,Lassen Volcanic National Park,8/19/2015 0:00:00,CA,PW,262325,National Park,Lands,Lassen Volcanic,-121.407200607999997,40.493829147000000
+224,HONO,Honouliuli National Historic Site,8/13/2015 0:00:00,HI,PW,2767391,National Historic Site,Lands,Honouliuli,-158.057499068999988,21.388175365999999
+225,FODO,Fort Donelson National Battlefield,7/27/2015 0:00:00,TN,SE,1284664,National Battlefield,Lands,Fort Donelson,-87.860883013000006,36.487282446999998
+226,VAMA,Vanderbilt Mansion National Historic Site,7/24/2015 0:00:00,NY,NE,968452,National Historic Site,Lands,Vanderbilt Mansion,-73.941945661999995,41.796607731999998
+227,JICA,Jimmy Carter National Historic Site,8/3/2015 0:00:00,GA,SE,1888934,National Historic Site,Lands,Jimmy Carter,-84.432408031999998,32.026317935000002
+228,SAJH,San Juan Island National Historical Park,7/24/2015 0:00:00,WA,PW,1534055,National Historical Park,Lands,San Juan Island,-123.004980047000004,48.462114554999999
+229,GATE,Gateway National Recreation Area,12/31/2015 0:00:00,NY,NE,882894,National Recreation Area,Lands,Gateway,-73.861449393000001,40.602785855999997
+230,UPDE,Upper Delaware Scenic and Recreational River,12/22/2015 0:00:00,PA,NE,1888970,Scenic and Recreational River,Lands,Upper Delaware,-75.009714817000003,41.516960427000001
+231,MIIN,Minidoka National Historic Site,10/15/2015 0:00:00,WA,PW,2766708,National Historic Site,Lands,Minidoka,-114.247375238999993,42.681043064999997
+232,BIHO,Big Hole National Battlefield,11/6/2015 0:00:00,MT,PW,779820,National Battlefield,Lands,Big Hole,-113.645844315999994,45.646473241000002
+233,CACH,Canyon de Chelly National Monument,12/14/2010 0:00:00,AZ,IM,44981,National Monument,Lands,Canyon de Chelly,-109.340067304000002,36.094055402000002
+234,CACO,Cape Cod National Seashore,3/24/2016 0:00:00,MA,NE,606900,National Seashore,Lands,Cape Cod,-70.005194298000006,41.960470295999997
+235,MAPR,Manhattan Project National Historical Park,3/16/2016 0:00:00,NM,IM,2775864,National Historical Park,Lands,Manhattan Project,-84.393330387000006,35.935395485000001
+236,MORA,Mount Rainier National Park,11/17/2015 0:00:00,WA,PW,1528416,National Park,Lands,Mount Rainier,-121.704388309999999,46.860766196000000
+237,LIBO,Lincoln Boyhood National Memorial,3/3/2016 0:00:00,IN,MW,446882,National Memorial,Lands,Lincoln Boyhood,-86.996568612999994,38.118170044999999
+238,FRLA,Frederick Law Olmsted National Historic Site,3/1/2016 0:00:00,MA,NE,1971618,National Historic Site,Lands,Frederick Law Olmsted,-71.132067711000005,42.324271516000003
+239,CAMO,Castle Mountains National Monument,3/1/2016 0:00:00,CA,PW,2775863,National Monument,Lands,Castle Mountain,-115.125898620000001,35.228331351999998
+240,GEWA,George Washington Birthplace National Monument,3/28/2016 0:00:00,VA,NE,1467038,National Monument,Lands,George Washington Birthplace,-76.920792442000007,38.193630614000000
+241,HAGR,Hamilton Grange National Memorial,3/28/2016 0:00:00,NY,NE,2083660,National Memorial,Lands,Hamilton Grange,-73.947291215999996,40.821351585999999
+242,HAMP,Hampton National Historic Site,1/26/2016 0:00:00,MD,NE,584846,National Historic Site,Lands,Hampton,-76.588225605999995,39.416577762000003
+243,WACO,Waco Mammoth National Monument,2/12/2016 0:00:00,TX,IM,2775865,National Monument,Lands,Waco Mammoth,-97.176061431999997,31.604658872000002
+244,GLCA,Glen Canyon National Recreation Area,10/4/2018 0:00:00,UT,IM,23865,National Recreation Area,Lands,Glen Canyon,-110.802127514000006,37.398020737000003
+245,YOSE,Yosemite National Park,1/27/2016 0:00:00,CA,PW,255923,National Park,Lands,Yosemite,-119.557187279000004,37.848832883999997
+246,TAPR,Tallgrass Prairie National Preserve,1/14/2016 0:00:00,KS,MW,1888965,National Preserve,Lands,Tallgrass Prairie,-96.573815857000000,38.451344818999999
+247,TUIN,Tuskegee Institute National Historic Site,1/14/2016 0:00:00,AL,SE,158362,National Historic Site,Lands,Tuskegee Institute,-85.704412805999993,32.429597590000000
+248,FOCA,Fort Caroline National Memorial,6/7/2016 0:00:00,FL,SE,282677,National Memorial,Lands,Fort Caroline,-81.500272740000000,30.384605503000000
+249,SACR,Saint Croix Island International Historic Site,6/20/2016 0:00:00,ME,NE,581971,International Historic Site,Lands,Saint Croix Island,-67.133636506000002,45.128588381000000
+250,LOSA,Lower Saint Croix National Scenic Riverway,5/10/2016 0:00:00,WI,MW,2738286,National Scenic Riverway,Lands,Lower Saint Croix,-92.704459768999996,45.344902447999999
+251,STLI,Statue Of Liberty National Monument,5/6/2016 0:00:00,NY,NE,880864,National Monument,Lands,Statue Of Liberty,-74.041132044999998,40.698318112999999
+252,BAND,Bandelier National Monument,4/26/2016 0:00:00,NM,IM,928874,National Monument,Lands,Bandelier,-106.305434430999995,35.757606568999996
+253,WICA,Wind Cave National Park,4/19/2016 0:00:00,SD,MW,1263056,National Park,Lands,Wind Cave,-103.439156397000005,43.580142401000003
+254,NATR,Natchez Trace Parkway,4/12/2016 0:00:00,MS,SE,123648,Parkway,Lands,Natchez Trace,-88.795443964000000,34.186413139000003
+255,COLM,Colorado National Monument,4/1/2016 0:00:00,CO,IM,202252,National Monument,Lands,Colorado,-108.692070926000000,39.050450163000001
+256,FRSP,Fredericksburg and Spotsylvania County Battlefields Memorial National Military Park,9/30/2016 0:00:00,VA,NE,1488838,National Military Park,Lands,Fredericksburg & Spotsylvania,-77.738766804999997,38.303640793000000
+257,RICH,Richmond National Battlefield Park,9/30/2016 0:00:00,VA,NE,1473199,National Battlefield Park,Lands,Richmond,-77.281975150999997,37.578089532000000
+258,PULL,Pullman National Monument,9/12/2016 0:00:00,IL,MW,2766905,National Monument,Lands,Pullman,-87.608797693000000,41.694291292999999
+259,PAAV,Pennsylvania Avenue National Historic Site,9/13/2016 0:00:00,DC,NC,2733439,National Historic Site,Lands,Pennsylvania Avenue,-77.017756094999996,38.892818491000000
+260,WWIM,World War I Memorial,9/13/2016 0:00:00,DC,NC,531319,National Memorial,Lands,World War I,-77.032860404999994,38.895932747000003
+261,BEPA,Belmont-Paul Women's Equality National Monument,9/13/2016 0:00:00,DC,NC,2781517,National Monument,Lands,Belmont-Paul Women's Equality,-77.003860751000005,38.892323451000003
+262,NOCA,North Cascades National Park,9/26/2016 0:00:00,WA,PW,1528421,National Park,Lands,North Cascades,-121.346473106000005,48.833291717999998
+263,STON,Stonewall National Monument,9/7/2016 0:00:00,NY,NE,2781516,National Monument,Lands,Stonewall,-74.000998171000006,40.733389055000004
+264,NPSA,National Park of American Samoa,5/25/2016 0:00:00,AS,PW,1966567,National Park,Lands,National Park of American Samoa,-169.452788712999990,-14.236873427000001
+265,VOYA,Voyageurs National Park,8/15/2016 0:00:00,MN,MW,660491,National Park,Lands,Voyageurs,-92.837398573000002,48.483431263000000
+266,HAFE,Harpers Ferry National Historical Park,8/5/2016 0:00:00,WV,NC,1556735,National Historical Park,Lands,Harpers Ferry,-77.741955360000006,39.312861847999997
+267,CONG,Congaree National Park,2/6/2017 0:00:00,SC,SE,2035095,National Park,Lands,Congaree,-80.748678053999996,33.791875230000002
+268,FEHA,Federal Hall National Memorial,3/30/2017 0:00:00,NY,NE,2057537,National Memorial,Lands,Federal Hall,-74.010259872999995,40.707314662999998
+269,FRDO,Frederick Douglass National Historic Site,3/21/2017 0:00:00,DC,NC,2733423,National Historic Site,Lands,Frederick Douglass,-76.985079190999997,38.862976840999998
+270,FOSM,Fort Smith National Historic Site,3/14/2017 0:00:00,AR,MW,56686,National Historic Site,Lands,Fort Smith,-94.431271730000006,35.388323556000003
+271,HALE,Haleakala National Park,1/26/2017 0:00:00,HI,PW,358382,National Park,Lands,Haleakala,-156.148571328999992,20.707285516999999
+272,ELMA,El Malpais National Monument,1/20/2017 0:00:00,NM,IM,1888913,National Monument,Lands,El Malpais,-107.891072957000006,34.916052479000001
+273,LECL,Lewis and Clark National Historic Trail,1/13/2017 0:00:00,NE,MW,2733427,National Historic Trail,Lands,Lewis and Clark,-95.832534249999995,40.664144729999997
+274,LACH,Lake Chelan National Recreation Area,1/6/2017 0:00:00,WA,PW,1528425,National Recreation Area,Lands,Lake Chelan,-120.683741569000006,48.353901282000002
+275,CARL,Carl Sandburg Home National Historic Site,11/10/2016 0:00:00,NC,SE,1006677,National Historic Site,Lands,Carl Sandburg Home,-82.450966498000000,35.268243402000003
+276,HATU,Harriet Tubman Underground Railroad National Historical Park,6/30/2017 0:00:00,MD,NE,2783291,National Historical Park,Lands,Harriet Tubman Underground Railroad,-76.073332566999994,38.440614240000002
+277,LYJO,Lyndon B. Johnson National Historical Park,6/23/2017 0:00:00,TX,IM,1888941,National Historical Park,Lands,Lyndon B Johnson,-98.615157933000006,30.241978786000001
+278,CAVE,Carlsbad Caverns National Park,6/22/2017 0:00:00,NM,IM,904780,National Park,Lands,Carlsbad Caverns,-104.553112037999995,32.140946296999999
+279,AZRU,Aztec Ruins National Monument,6/22/2017 0:00:00,NM,IM,885961,National Monument,Lands,Aztec Ruins,-107.999924475000000,36.836822157000000
+280,ZION,Zion National Park,6/22/2017 0:00:00,UT,IM,1455157,National Park,Lands,Zion,-113.026513777999995,37.298392546000002
+281,LIHO,Lincoln Home National Historic Site,6/6/2017 0:00:00,IL,MW,1821086,National Historic Site,Lands,Lincoln Home,-89.645133969000000,39.797156420000000
+282,CRMP,Craters of the Moon National Preserve,5/31/2017 0:00:00,ID,PW,1986829,National Preserve,Lands,Craters of the Moon,-113.483002687999999,43.152802694000002
+283,CRMO,Craters of the Moon National Monument,5/31/2017 0:00:00,ID,PW,1986829,National Monument,Lands,Craters of the Moon,-113.534436283000005,43.423063421999998
+284,WHSA,White Sands National Park,5/25/2017 0:00:00,NM,IM,914261,National Park,Lands,White Sands,-106.335026475999996,32.779163289000003
+285,PECO,Pecos National Historical Park,5/24/2017 0:00:00,NM,IM,937161,National Historical Park,Lands,Pecos,-105.674894874000003,35.538121255000000
+286,ORPI,Organ Pipe Cactus National Monument,5/12/2017 0:00:00,AZ,IM,15492,National Monument,Lands,Organ Pipe Cactus,-112.857331363000000,32.035855433000002
+287,CURE,Curecanti National Recreation Area,5/25/2017 0:00:00,CO,IM,196412,National Recreation Area,Lands,Curecanti,-107.167339068999993,38.462851037999997
+288,THRO,Theodore Roosevelt National Park,4/27/2017 0:00:00,ND,MW,1033824,National Park,Lands,Theodore Roosevelt,-103.459250804999996,46.953620966000003
+289,DINO,Dinosaur National Monument,4/7/2017 0:00:00,CO,IM,169567,National Monument,Lands,Dinosaur,-108.839479118000000,40.479132802999999
+290,CRLA,Crater Lake National Park,6/5/2017 0:00:00,OR,PW,1163670,National Park,Lands,Crater Lake,-122.132745646000004,42.941226393000001
+291,APIS,Apostle Islands National Lakeshore,8/25/2017 0:00:00,WI,MW,1581059,National Lakeshore,Lands,Apostle Islands,-90.579550431000001,46.936723929000003
+292,GLAC,Glacier National Park,8/18/2017 0:00:00,MT,IM,1803454,National Park,Lands,Glacier,-113.800940514000004,48.684384409000003
+293,SAGU,Saguaro National Park,8/31/2017 0:00:00,AZ,IM,10683,National Park,Lands,Saguaro,-110.607905266000003,32.178726249000000
+294,KEWE,Keweenaw National Historical Park,9/19/2017 0:00:00,MI,MW,1888937,National Historical Park,Lands,Keweenaw,-88.568705808999994,47.138158068000003
+295,HOME,Homestead National Monument,12/14/2017 0:00:00,NE,MW,830099,National Monument,Lands,Homestead,-96.834025561999994,40.287964187000000
+296,CHCU,Chaco Culture National Historical Park,12/11/2017 0:00:00,NM,IM,936878,National Historical Park,Lands,Chaco Culture,-107.948107747999998,36.044994860999999
+297,GRKO,Grant-Kohrs Ranch National Historic Site,11/30/2017 0:00:00,MT,IM,806847,National Historic Site,Lands,Grant-Kohrs Ranch,-112.746692177000000,46.413754679999997
+298,CAJO,Captain John Smith National Historic Trail,11/17/2017 0:00:00,MD,NE,2783287,National Historic Trail,Lands,Captain John Smith,-76.653353124000006,37.412180468000003
+299,INDE,Independence National Historical Park,11/9/2017 0:00:00,PA,NE,1177725,National Historical Park,Lands,Independence,-75.149422455999996,39.951679714000001
+300,JAZZ,New Orleans Jazz National Historical Park,11/8/2017 0:00:00,LA,SE,2035602,National Historical Park,Lands,New Orleans Jazz,-90.067496684000005,29.963031242000000
+301,FRRI,Freedom Riders National Monument,10/24/2017 0:00:00,AL,SE,2783290,National Monument,Lands,Freedom Riders,-85.907971872999994,33.634972591999997
+302,BICR,Birmingham Civil Rights National Monument,10/24/2017 0:00:00,AL,SE,2783289,National Monument,Lands,Birmingham Civil Rights,-86.814666504000002,33.515427885999998
+303,NACA,National Capital Parks,8/13/2019 0:00:00,DC,NC,2738287,Park,Lands,National Capital Parks,-76.835220574000004,39.063192991000001
+304,GRTE,Grand Teton National Park,3/30/2018 0:00:00,WY,IM,1597571,National Park,Lands,Grand Teton,-110.705466560000005,43.818535654000002
+305,CHIC,Chickasaw National Recreation Area,3/29/2018 0:00:00,OK,IM,1101907,National Recreation Area,Lands,Chickasaw,-97.007017188000006,34.460522699999999
+306,STRI,Stones River National Battlefield,3/29/2018 0:00:00,TN,SE,1888964,National Battlefield,Lands,Stones River,-86.434163502000004,35.873241677999999
+307,GRSA,Great Sand Dunes National Preserve,3/28/2018 0:00:00,CO,IM,2733443,National Preserve,Lands,Great Sand Dunes,-105.496727492999995,37.833687537000003
+308,GRSA,Great Sand Dunes National Park,3/28/2018 0:00:00,CO,IM,2733443,National Park,Lands,Great Sand Dunes,-105.628898657999997,37.776634049000002
+309,BITH,Big Thicket National Preserve,3/27/2018 0:00:00,TX,IM,1888902,National Preserve,Lands,Big Thicket,-94.231620124000003,30.340875182000001
+310,RIGR,Rio Grande Wild and Scenic River,3/22/2018 0:00:00,TX,IM,2766087,Wild and Scenic River,Lands,Rio Grande,-102.532712813000003,29.757748659000001
+311,SAAN,San Antonio Missions National Historical Park,2/28/2018 0:00:00,TX,IM,1377039,National Historical Park,Lands,San Antonio Missions,-98.454667422000000,29.332730754000000
+312,RIRA,River Raisin National Battlefield Park,2/27/2018 0:00:00,MI,MW,2733434,National Battlefield Park,Lands,River Raisin,-83.376179136999994,41.912964207999998
+313,MIMA,Minute Man National Historical Park,2/22/2018 0:00:00,MA,NE,600051,National Historical Park,Lands,Minute Man,-71.296041449000001,42.453400559999999
+314,BLCA,Black Canyon of the Gunnison National Park,2/15/2018 0:00:00,CO,IM,203271,National Park,Lands,Black Canyon of the Gunnison,-107.725735499999999,38.579075844999998
+315,WACA,Walnut Canyon National Monument,2/12/2018 0:00:00,AZ,IM,35848,National Monument,Lands,Walnut Canyon,-111.495030365000005,35.161225090999999
+316,NICO,Nicodemus National Historic Site,3/26/2018 0:00:00,KS,MW,2733440,National Historic Site,Lands,Nicodemus,-99.617841733999995,39.390360463999997
+317,WUPA,Wupatki National Monument,2/6/2018 0:00:00,AZ,IM,38197,National Monument,Lands,Wupatki,-111.403636160999994,35.561178658999999
+318,WABA,Washita Battlefield National Historic Site,1/24/2018 0:00:00,OK,IM,1946144,National Historic Site,Lands,Washita Battlefield,-99.704461692999999,35.620847851999997
+319,KAWW,Katahdin Woods And Waters National Monument,1/23/2018 0:00:00,ME,NE,2783292,National Monument,Lands,Katahdin Woods And Waters,-68.736708132999993,45.947772249000003
+320,ROLA,Ross Lake National Recreation Area,1/18/2018 0:00:00,WA,PW,1528419,National Recreation Area,Lands,Ross Lake,-121.172783275000000,48.705894604999997
+321,BIBE,Big Bend National Park,1/9/2018 0:00:00,TX,IM,1377082,National Park,Lands,Big Bend,-103.229370306999996,29.297780404000001
+322,CHOH,Chesapeake and Ohio Canal National Historical Park,7/2/2018 0:00:00,DC,NC,583731,National Historical Park,Lands,Chesapeake and Ohio Canal,-77.495869139999996,39.117880646000003
+323,SARA,Saratoga National Historical Park,7/2/2018 0:00:00,NY,NE,964487,National Historical Park,Lands,Saratoga,-73.631431861999999,42.995207452000002
+324,DEWA,Delaware Water Gap National Recreation Area,5/25/2018 0:00:00,PA,NE,1193711,National Recreation Area,Lands,Delaware Water Gap,-74.957289144000001,41.100296370999999
+325,VAFO,Valley Forge National Historical Park,5/14/2018 0:00:00,PA,NE,1211947,National Historical Park,Lands,Valley Forge,-75.444623821999997,40.098899854000003
+326,LAKE,Lake Mead National Recreation Area,5/10/2018 0:00:00,NV,PW,858265,National Recreation Area,Lands,Lake Mead,-114.651902949000004,35.716497054000001
+327,MISS,Mississippi National River and Recreation Area,5/10/2018 0:00:00,MN,MW,1888944,National River and Recreation Area,Lands,Mississippi,-92.930111570999998,44.772237617999998
+328,HSTR,Harry S Truman National Historic Site,5/10/2018 0:00:00,MO,MW,2463113,National Historic Site,Lands,Harry S Truman,-94.530576891999999,38.901192174000002
+329,CHSC,Little Rock Central High School National Historic Site,5/8/2018 0:00:00,AR,MW,2091841,National Historic Site,Lands,Little Rock Central High School,-92.299751056999995,34.736954887000003
+330,CEBR,Cedar Breaks National Monument,5/4/2018 0:00:00,UT,IM,1439558,National Monument,Lands,Cedar Breaks,-112.845157846999996,37.635410211000000
+331,FODA,Fort Davis National Historic Site,4/27/2018 0:00:00,TX,IM,1357585,National Historic Site,Lands,Fort Davis,-103.896190411000006,30.599303810999999
+332,FOMR,Fort Monroe National Monument,4/18/2018 0:00:00,VA,NE,2707739	,National Monument,Lands,Fort Monroe,-76.306954684000004,37.004200982000000
+333,ARCH,Arches National Park,4/9/2018 0:00:00,UT,IM,1455716,National Park,Lands,Arches,-109.586366577999996,38.722618445000002
+334,FOLA,Fort Laramie National Historic Site,4/9/2018 0:00:00,WY,IM,1597073,National Historic Site,Lands,Fort Laramie,-104.545909230000007,42.203016361000003
+335,TUMA,Tumacacori National Historical Park,4/5/2018 0:00:00,AZ,IM,35519,National Historical Park,Lands,Tumacácori,-111.047762571999996,31.572832907999999
+336,TUSK,Tule Springs Fossil Beds National Monument,9/26/2018 0:00:00,NV,PW,2767392,National Monument,Lands,Tule Springs Fossil Beds,-115.352367806000004,36.406059796000001
+337,PETR,Petroglyph National Monument,8/24/2018 0:00:00,NM,IM,920404,National Monument,Lands,Petroglyph,-106.752256266000003,35.134259157999999
+338,WICL,President William Jefferson Clinton Birthplace Home National Historic Site,7/24/2018 0:00:00,AR,MW,2733433,National Historic Site,Lands,President William Jefferson Clinton Birthplace Home,-93.596360735000005,33.667620603000003
+339,FOUS,Fort Union Trading Post National Historic Site,7/24/2018 0:00:00,ND,MW,771520,National Historic Site,Lands,Fort Union Trading Post,-104.038078748000004,47.998986584000001
+340,GRCA,Grand Canyon National Park,7/25/2018 0:00:00,AZ,IM,23866,National Park,Lands,Grand Canyon,-112.185254088999997,36.186720303000001
+341,PAIS,Padre Island National Seashore,7/26/2018 0:00:00,TX,IM,1383785,National Seashore,Lands,Padre Island,-97.341067791000000,26.705806709000001
+342,MEVE,Mesa Verde National Park,7/18/2018 0:00:00,CO,IM,179042,National Park,Lands,Mesa Verde,-108.462393652000003,37.239083243000003
+343,CUIS,Cumberland Island National Seashore,10/16/2018 0:00:00,GA,SE,325829,National Seashore,Lands,Cumberland Island,-81.451742179999997,30.857265287000001
+344,KEMO,Kennesaw Mountain National Battlefield Park,10/18/2018 0:00:00,GA,SE,310345,National Battlefield Park,Lands,Kennesaw Mountain,-84.578925808999998,33.978060829999997
+345,SHIL,Shiloh National Battlefield,11/1/2018 0:00:00,MS,SE,1270094,National Battlefield,Lands,Shiloh,-88.340486114000001,35.136600309999999
+346,OZAR,Ozark National Scenic Riverway,11/19/2018 0:00:00,MO,MW,751466,National Scenic Riverway,Lands,Ozark,-91.196025958000007,37.147187133999999
+347,FILA,First Ladies National Historic Site,11/20/2018 0:00:00,OH,MW,2035610,National Historic Site,Lands,First Ladies,-81.375932640000002,40.796622173999999
+348,WICR,Wilson's Creek National Battlefield,11/29/2018 0:00:00,MO,MW,735922,National Battlefield,Lands,Wilson's Creek,-93.409675371999995,37.099821425000002
+349,GWCA,George Washington Carver National Monument,11/30/2018 0:00:00,MO,MW,718402,National Monument,Lands,George Washington Carver,-94.355523543999993,36.986641798000001
+350,HAVO,Hawai'i Volcanoes National Park,9/9/2019 0:00:00,HI,PW,365210,National Park,Lands,Hawaii Volcanoes,-155.602855102999996,19.377633517000000
+351,CANE,Camp Nelson National Monument,12/6/2018 0:00:00,KY,SE,2795910,National Monument,Lands,Camp Nelson,-84.598168306999995,37.797018049999998
+352,SACN,Saint Croix National Scenic Riverway,2/7/2019 0:00:00,WI,MW,1888958,National Scenic Riverway,Lands,Saint Croix,-91.578484351000000,45.980215338999997
+353,PIRO,Pictured Rocks National Lakeshore,2/13/2019 0:00:00,MI,MW,634820,National Lakeshore,Lands,Pictured Rocks,-86.315938927000005,46.563832064000003
+354,MNRR,Missouri National Recreation River,3/7/2019 0:00:00,SD,MW,2733411,National Recreation River,Lands,Missouri,-97.070356992000001,42.766758181000000
+355,VALL,Valles Caldera National Preserve,3/7/2019 0:00:00,NM,IM,2035517,National Preserve,Lands,Valles Caldera,-106.519615158999997,35.916824677999998
+356,REER,Reconstruction Era National Monument,3/22/2019 0:00:00,SC,SE,2783288,National Monument,Lands,Reconstruction Era,-80.578396440999995,32.388348622000002
+357,CUVA,Cuyahoga Valley National Park,3/21/2019 0:00:00,OH,MW,1066328,National Park,Lands,Cuyahoga Valley,-81.569054811000001,41.261334161999997
+358,DENA,Denali National Preserve,3/21/2019 0:00:00,AK,AK,2760439,National Preserve,Lands,Denali,-152.439742967000001,63.478031987999998
+359,WRST,Wrangell-St. Elias National Park,3/21/2019 0:00:00,AK,AK,1416055,National Park,Lands,Wrangell - St Elias,-142.131988911999997,60.694315142000001
+360,WRST,Wrangell-St. Elias National Preserve,3/21/2019 0:00:00,AK,AK,1416055,National Preserve,Lands,Wrangell - St Elias,-142.576044634999988,62.237553484999999
+361,GLBA,Glacier Bay National Park,3/21/2019 0:00:00,AK,AK,1416041,National Park,Lands,Glacier Bay,-136.813115595999989,58.794777564999997
+362,GLBA,Glacier Bay National Preserve,3/21/2019 0:00:00,AK,AK,1416041,National Preserve,Lands,Glacier Bay,-138.351441504999997,59.131376721999999
+363,KATM,Katmai National Park,3/21/2019 0:00:00,AK,AK,1416045,National Park,Lands,Katmai,-154.977843740999987,58.565864013000002
+364,KEFJ,Kenai Fjords National Park,3/21/2019 0:00:00,AK,AK,1419645,National Park,Lands,Kenai Fjords,-149.881524304999999,59.953918919000003
+365,LACL,Lake Clark National Preserve,3/21/2019 0:00:00,AK,AK,1416049,National Preserve,Lands,Lake Clark,-154.568418535999996,60.185298883999998
+366,NOAT,Noatak National Preserve,3/21/2019 0:00:00,AK,AK,1413640,National Preserve,Lands,Noatak,-159.394485671000012,68.184966329000005
+367,BELA,Bering Land Bridge National Preserve,3/21/2019 0:00:00,AK,AK,1416037,National Preserve,Lands,Bering Land Bridge,-164.408675011000014,65.960858954000003
+368,ALAG,Alagnak Wild River,3/21/2019 0:00:00,AK,AK,2733449,Wild River,Lands,Alagnak,-156.082237085000003,59.003069193999998
+369,SITK,Sitka National Historical Park,3/21/2019 0:00:00,AK,AK,1417085,National Historical Park,Lands,Sitka,-135.315514973999996,57.047139379000001
+370,ANIA,Aniakchak National Monument,3/21/2019 0:00:00,AK,AK,1416034,National Monument,Lands,Aniakchak,-158.117791477999987,56.895613638999997
+371,CAKR,Cape Krusenstern National Monument,3/21/2019 0:00:00,AK,AK,1416038,National Monument,Lands,Cape Krusenstern,-163.504354116000002,67.415301263999993
+372,GAAR,Gates of the Arctic National Park,3/21/2019 0:00:00,AK,AK,1416040,National Park,Lands,Gates of the Arctic,-153.386903025000009,67.877076793000001
+373,DENA,Denali National Park,3/21/2019 0:00:00,AK,AK,2760439,National Park,Lands,Denali,-150.730208223999995,63.348239014000001
+374,KATM,Katmai National Preserve,3/21/2019 0:00:00,AK,AK,1416045,National Preserve,Lands,Katmai,-155.319454040000011,59.107045763000002
+375,KOVA,Kobuk Valley National Park,3/21/2019 0:00:00,AK,AK,1416046,National Park,Lands,Kobuk Valley,-159.063083584999987,67.282636686000004
+376,GAAR,Gates of the Arctic National Preserve,3/21/2019 0:00:00,AK,AK,1416040,National Preserve,Lands,Gates of the Arctic,-154.915415985999999,66.779876502999997
+377,ANIA,Aniakchak National Preserve,3/21/2019 0:00:00,AK,AK,1416034,National Preserve,Lands,Aniakchak,-157.720725861000005,56.865708165999997
+378,YUCH,Yukon-Charley Rivers National Preserve,3/21/2019 0:00:00,AK,AK,1416058,National Preserve,Lands,Yukon - Charley Rivers,-142.796002092000009,65.093560800999995
+379,LACL,Lake Clark National Park,3/21/2019 0:00:00,AK,AK,1416049,National Park,Lands,Lake Clark,-153.248061180000008,60.554298207000002
+380,KLGO,Klondike Gold Rush National Historical Park,3/21/2019 0:00:00,AK,AK,1423115,National Historical Park,Lands,Klondike Gold Rush,-135.292636686999998,59.631591364000002
+381,ROMO,Rocky Mountain National Park,6/30/2019 0:00:00,CO,IM,204948,National Park,Lands,Rocky Mountain,-105.697780473999998,40.355897177999999
+382,ROCR,Rock Creek Park,5/30/2019 0:00:00,DC,NC,530563,Park,Lands,Rock Creek Park,-77.046082174000006,38.963017768999997
+383,PISC,Piscataway Park,6/11/2019 0:00:00,MD,NC,1676813,Other Designation,Lands,Piscataway,-77.055115674000007,38.683891443000000
+384,MANA,Manassas National Battlefield Park,6/11/2019 0:00:00,VA,NC,1470042,National Battlefield Park,Lands,Manassas,-77.530039316000000,38.820773039000002
+385,KAHO,Kaloko-Honokohau National Historical Park,5/8/2019 0:00:00,HI,PW,1879023,National Historical Park,Lands,Kaloko-Honokohau,-156.030515701000013,19.680895870000001
+386,JOTR,Joshua Tree National Park,6/13/2019 0:00:00,CA,PW,277261,National Park,Lands,Joshua Tree,-115.860122536999995,33.827185374999999
+387,IATR,Ice Age National Scenic Trail,6/30/2019 0:00:00,WI,MW,2733461,National Scenic Trail,Lands,Ice Age,-89.613922850999998,43.076931277000000
+388,HEHO,Herbert Hoover National Historic Site,6/30/2019 0:00:00,IA,MW,457629,National Historic Site,Lands,Herbert Hoover,-91.351503506000000,41.667383428999997
+389,FOSC,Fort Scott National Historic Site,5/2/2019 0:00:00,KS,MW,480986,National Historic Site,Lands,Fort Scott,-94.704439375999996,37.843619115999999
+390,FLFO,Florissant Fossil Beds National Monument,5/2/2019 0:00:00,CO,IM,191398,National Monument,Lands,Florissant Fossil Beds,-105.281825033000004,38.912923374000002
+391,EVER,Everglades National Park,6/24/2019 0:00:00,FL,SE,293666,National Park,Lands,Everglades,-80.881982077000004,25.375942911999999
+392,COLO,Colonial National Historical Park,6/30/2019 0:00:00,VA,NE,1478412,National Historical Park,Lands,Colonial,-76.531664226000004,37.237902269999999
+393,ANTI,Antietam National Battlefield,5/30/2019 0:00:00,MD,NC,589057,National Battlefield,Lands,Antietam,-77.738073420000006,39.470155343000002
+394,GETT,Gettysburg National Military Park,7/11/2019 0:00:00,PA,NE,1175577,National Military Park,Lands,Gettysburg,-77.238468650000002,39.804289152000003
+395,HOCU,Hopewell Culture National Historical Park,7/10/2019 0:00:00,OH,MW,1888931,National Historical Park,Lands,Hopewell Culture,-83.135195017000001,39.279394109000002
+396,BADL,Badlands National Park,7/19/2019 0:00:00,SD,MW,1265096,National Park,Lands,Badlands,-102.393945066000001,43.834062408999998
+397,AMIS,Amistad National Recreation Area,7/22/2019 0:00:00,TX,IM,1329499,National Recreation Area,Lands,Amistad,-101.080951963000004,29.477491985000000
+398,PRWI,Prince William Forest Park,7/29/2019 0:00:00,VA,NC,1472799,Park,Lands,Prince William Forest,-77.387419117999997,38.585840558999998
+399,EFMO,Effigy Mounds National Monument,8/19/2019 0:00:00,IA,MW,456249,National Monument,Lands,Effigy Mounds,-91.208269096999999,43.091388254999998
+400,NIOB,Niobrara National Scenic River,8/19/2019 0:00:00,NE,MW,1888949,National Scenic River,Lands,Niobrara,-99.631987582999997,42.725866218000000
+401,PERI,Pea Ridge National Military Park,8/11/2015 0:00:00,AR,MW,53246,National Military Park,Lands,Pea Ridge,-94.034444988999994,36.454781427999997
+402,PEFO,Petrified Forest National Park,8/21/2019 0:00:00,AZ,IM,23864,National Park,Lands,Petrified Forest,-109.674685956999994,34.988681841999998
+403,WIHO,William Howard Taft National Historic Site,8/23/2019 0:00:00,OH,MW,1888973,National Historic Site,Lands,William Howard Taft,-84.507589508999999,39.119703526000002
+404,TULE,Tule Lake National Monument,8/29/2019 0:00:00,CA,PW,need,National Monument,Lands,Tule Lake,-121.374661101000001,41.886609845000002
+405,PERL,Pearl Harbor National Memorial,8/29/2019 0:00:00,HI,PW,need,National Memorial,Lands,Pearl Harbor,-157.938499207999996,21.366993442999998
+406,LEWI,Lewis and Clark National Historical Park,9/10/2019 0:00:00,WA,PW,2055170,National Historical Park,Legacy,Lewis and Clark,-124.067632019000001,46.286184249000002
+407,MUWO,Muir Woods National Monument,9/18/2019 0:00:00,CA,PW,229295,National Monument,Lands,Muir Woods,-122.583950780999999,37.898463722000002
+408,MOJA,Mojave National Preserve,9/19/2019 0:00:00,CA,PW,1888945,National Preserve,Lands,Mojave,-115.514363157999995,35.114774277000002
+409,INDU,Indiana Dunes National Park,9/23/2019 0:00:00,IN,MW,446903,National Park,Lands,Indiana Dunes,-87.032490746999997,41.661433123999998
+410,GWMP,George Washington Memorial Parkway,9/24/2019 0:00:00,VA,NC,584569,National Parkway,Lands,George Washington,-77.049546320999994,38.714978606000003
+411,MONO,Monocacy National Battlefield,9/24/2019 0:00:00,MD,NC,588388,National Battlefield,Lands,Monocacy,-77.402467107000007,39.357690601000002
+412,DEVA,Death Valley National Park,9/26/2019 0:00:00,CA,PW,857501,National Park,Lands,Death Valley,-117.131566055999997,36.481921546000002
+413,BICY,Big Cypress National Preserve,9/26/2019 0:00:00,FL,SE,302659,National Preserve,Lands,Big Cypress,-81.081169235000004,25.971295369000000
+414,APPA,Appalachian National Scenic Trail,9/30/2019 0:00:00,ME,NE,2766084,National Scenic Trail,Lands,Appalachian,-70.511158405000003,44.924088075999997
+415,ALFL,Alibates Flint Quarries National Monument,11/25/2019 0:00:00,TX,IM,1377214,National Monument,Lands,Alibates Flint Quarries,-101.671708745000004,35.581959605000002
+416,LAMR,Lake Meredith National Recreation Area,11/25/2019 0:00:00,TX,IM,1384770,National Recreation Area,Lands, Lake Meredith,-101.696221121999997,35.595931700000001
+417,HOSP,Hot Springs National Park,12/13/2019 0:00:00,AR,MW,56796,National Park,Lands,Hot Springs,-93.089721850999993,34.511122026000002
+418,VIIS,Virgin Islands National Park,10/24/2019 0:00:00,VI,SE,1614406,National Park,Lands,Virgin Islands,-64.741949887999994,18.342795339999999
+419,JOMU,John Muir National Historic Site,12/16/2019 0:00:00,CA,PW,226274,National Historic Site,Lands,John Muir,-122.132660530999999,37.982630059999998
+420,BUFF,Buffalo National River,12/18/2019 0:00:00,AR,MW,74272,National River,Lands,Buffalo,-92.918106171999995,35.968644202999997
