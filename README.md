@@ -37,7 +37,7 @@ Processing Complete
 You can also use method DateRange to receive the number of days your window encapsulates
 
 ```
->>>Shenandoah.DateRange
+>>>Shenandoah.DateRange()
 datetime.timedelta(days=366)
 ```
 
