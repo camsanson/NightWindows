@@ -8,8 +8,7 @@ import numpy as np
 import pandas as pd
 from timezonefinder import TimezoneFinder
 
-class NightWindows(object): # TO DO initializing the class requires 'hours' ...should be optional
-    
+class NightWindows(object):
 
     '''
     The purpose of this class is to find all of the possible viewing window times
@@ -37,7 +36,6 @@ class NightWindows(object): # TO DO initializing the class requires 'hours' ...s
         self.coords = coords
         self.hours = hours
         self.printout = printout
-        self.sample_windows = None
 
     def GetWindows(self):
         return self.WindowFinder(
@@ -59,6 +57,7 @@ class NightWindows(object): # TO DO initializing the class requires 'hours' ...s
         
         # This points to directly above the folder that the file is in
         rootpath = (os.path.dirname(os.path.realpath(sys.argv[0])))
+        
         def regions(condition):
             d = np.diff(condition)
             idx, = d.nonzero()
@@ -74,7 +73,7 @@ class NightWindows(object): # TO DO initializing the class requires 'hours' ...s
 
             return idx
 
-         # Create a list of all dates in specified range
+        # Create a list of all dates in specified range
         listofdates = []
         currentdate = startdate
         while currentdate <= enddate:
@@ -87,7 +86,7 @@ class NightWindows(object): # TO DO initializing the class requires 'hours' ...s
         # If coords is a string, open CentroidLatLongs, find park associated
         # with 4-letter code, and use this as coords tuple value
         if isinstance(coords, str):
-            # This file path must be changed with each user
+            # Points to the folder containing text file
             df = pd.read_csv(rootpath + os.sep + "NightWindows\CentroidLatLongs.txt")
             df = df.sort_values("UNIT_NAME")
             df = df.drop_duplicates("UNIT_CODE")
@@ -96,6 +95,8 @@ class NightWindows(object): # TO DO initializing the class requires 'hours' ...s
             lat = park["POINT_Y"].values.item()
             coords = (lat, long)
 
+        # Finds the time zone of the specified location to change from UTC to local 
+        # time at the end of the function
         timezones = {"Pacific/Saipan" : 10,
              "Pacific/Honolulu" : -10,
              "America/Anchorage" : -9,
@@ -119,7 +120,7 @@ class NightWindows(object): # TO DO initializing the class requires 'hours' ...s
             command = "solunar -f -l {0},{1} -d {2} --utc".format(
                 coords[0], coords[1], fmt_date.lower())
 
-            # This will be different for each user, and must be edited
+            # Points to local copy of solunar
             os.chdir(rootpath + os.sep + "solunar_cmdline")
 
             process = Popen(command, stdout=PIPE, stderr=PIPE)
@@ -292,6 +293,7 @@ class NightWindows(object): # TO DO initializing the class requires 'hours' ...s
 
         # Once lists are formed, convert to numpy arrays
         timeslist = np.array(timeslist)
+        # Account for time zone difference as calculated before
         timeslist += dt.timedelta(hours=timediff)
         Sunlist = np.array(Sunlist)
         Moonlist = np.array(Moonlist)
